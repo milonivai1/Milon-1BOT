@@ -1,15 +1,15 @@
-# 🤖 IMRAN BOT V4
+# 🤖 Milon BOT V4
 
-![IMRAN BOT Logo](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/imranbotlogo.png)
+![Milon BOT Logo](https://raw.githubusercontent.com/MD-Milon-60/ImranBypass/refs/heads/main/imranbotlogo.png)
 
 **🌟 Fully Customizable Facebook Messenger Bot**  
 **Premium Features • Easy to Use • Built with ❤️ by Imran Ahmed**
 
 ## 👤 ABOUT ME
 
-- Name: ```IMRAN AHMED```</br> 
+- Name: ```Milon AHMED```</br> 
 - Age: ```20```</br>  
-- Facebook: [Imran Ahmed](https://www.facebook.com/Imran.Ahmed099).</br>
+- Facebook: [Milon Ahmed](https://www.facebook.com/Imran.Ahmed099).</br>
 
 ## 🚀 STARTUP
 
@@ -123,10 +123,10 @@ module.exports.run = async ({ api, event, args }) => {
 
 📁 RESOURCES
 
-GitHub Repository: [IMRAN-BOTV4](https://github.com/MR-IMRAN-60/IMRAN-BOTV4)
+GitHub Repository: [Milon-BOTV4](https://github.com/MR-IMRAN-60/IMRAN-BOTV4)
 
 
-> 💬 Developed with care by Imran Ahmed & Ryuko
+> 💬 Developed with care by Milon Ahmed & Ryuko
 
 
 
