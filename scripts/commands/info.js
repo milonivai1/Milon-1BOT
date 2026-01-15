@@ -35,11 +35,11 @@ module.exports.run = async ({ api, event, args }) => {
   const info = `
 ✦ 𝗬𝗨𝗠𝗜𝗞𝗔 𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 𝗜𝗡𝗙𝗢 ✦
 
-❖ 𝗡𝗮𝗺𝗲: 『 ${adminInfo.name} 』
-❖ 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: 『 ${adminInfo.city} 』
-❖ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: 『 ${adminInfo.work} 』
-❖ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 『 ${adminInfo.whatsapp} 』
-❖ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: 『 ${adminInfo.facebook} 』
+❖ 𝗡𝗮𝗺𝗲: 『 Milon Hasan 』
+❖ 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: 『 dhaka 』
+❖ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: 『 web Developer cretaor』
+❖ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 『 01912603270 』
+❖ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: 『 https://www.facebook.com/profile.php?id=61583503117228 』
 
 ╔════════ • ✤ • ════════╗
 ✦ 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ✦
