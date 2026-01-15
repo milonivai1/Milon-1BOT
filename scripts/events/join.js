@@ -5,7 +5,7 @@ module.exports.config = {
   name: "join",
   eventType: ["log:subscribe"],
   version: "3.0.0",
-  credits: "Imran",
+  credits: "Milon",
   description: "Next-Level Gothic Anime Cute Welcome System 🌸",
   dependencies: {
     "fs-extra": ""
@@ -56,10 +56,10 @@ ${prefix}random — video
 ❏━━━━━━━━━━━━━━━━━━━━━━━━━❏
 
 🚨 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 🚨
-👤 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻: 𝓘𝓶𝓻𝓪𝓷 𝓐𝓱𝓶𝓮𝓭
-📘 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: https://www.facebook.com/Imran.Ahmed099
-💬 𝖂𝗵𝗮𝘁𝘀𝗔𝗽𝗽: wa.me/+8801689903267
-✉️ 𝑬𝒎𝒂𝒊𝒍: massangerbot2@gmail.com
+👤 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻: Milon hasan
+📘 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: 
+💬 𝖂𝗵𝗮𝘁𝘀𝗔𝗽𝗽: wa.me/+88 01912603270
+✉️ 𝑬𝒎𝒂𝒊𝒍: rolexmilon9@gmail.com
 ❏━━━━━━━━━━━━━━━━━━━━━━━━━❏
 `;
       
